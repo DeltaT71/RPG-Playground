@@ -15,7 +15,7 @@ This is a personal learning project built to experiment with RPG game systems su
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/username/my-game.git
+   git clone [https://github.com/username/my-game.git](https://github.com/DeltaT71/RPG-Playground)
    Open the project in Unity 2022.x or newer
 
 2. Load the Island Scene located in Assets/Scenes/
